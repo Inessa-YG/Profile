@@ -1,4 +1,5 @@
 ```mermaid
+horizontal timeline
     title My Career Evolution: From Banking to AI-Driven Business Analyst
     section Banking Foundation
         2012-2014 : Comprehensive Teller
