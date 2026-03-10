@@ -1,3 +1,4 @@
+```mermaid
 timeline
     title My Career Evolution: From Banking to AI-Driven Business Analyst
     section Banking Foundation
@@ -27,3 +28,4 @@ timeline
         2026-Present : Analyst
                   : Open to opportunities in NZ
                   : Bridging business, data & AI strategy
+```
